@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|c:\\users\\smartpc\\desktop\\projekatsistemsko3\\treciprojekat\\treciprojekat\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|solutionrelative:treciprojekat\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|c:\\users\\smartpc\\desktop\\projekatsistemsko3\\treciprojekat\\treciprojekat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|solutionrelative:treciprojekat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|c:\\users\\smartpc\\desktop\\projekatsistemsko3\\treciprojekat\\treciprojekat\\utakmica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|solutionrelative:treciprojekat\\utakmica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|c:\\users\\smartpc\\desktop\\projekatsistemsko3\\treciprojekat\\treciprojekat\\timaktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|solutionrelative:treciprojekat\\timaktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|c:\\users\\smartpc\\desktop\\projekatsistemsko3\\treciprojekat\\treciprojekat\\rxkomponenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|solutionrelative:treciprojekat\\rxkomponenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|c:\\users\\smartpc\\desktop\\projekatsistemsko3\\treciprojekat\\treciprojekat\\poruke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|solutionrelative:treciprojekat\\poruke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|c:\\users\\smartpc\\desktop\\projekatsistemsko3\\treciprojekat\\treciprojekat\\loger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|solutionrelative:treciprojekat\\loger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|c:\\users\\smartpc\\desktop\\projekatsistemsko3\\treciprojekat\\treciprojekat\\konfiguracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|solutionrelative:treciprojekat\\konfiguracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|c:\\users\\smartpc\\desktop\\projekatsistemsko3\\treciprojekat\\treciprojekat\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|solutionrelative:treciprojekat\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|c:\\users\\smartpc\\desktop\\projekatsistemsko3\\treciprojekat\\treciprojekat\\apifootballklijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|solutionrelative:treciprojekat\\apifootballklijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|c:\\users\\smartpc\\desktop\\projekatsistemsko3\\treciprojekat\\treciprojekat\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D5DB71A7-D416-4C71-B98A-C92268B09426}|TreciProjekat\\TreciProjekat.csproj|solutionrelative:treciprojekat\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\README.md",
+              "RelativeDocumentMoniker": "TreciProjekat\\README.md",
+              "ToolTip": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\README.md",
+              "RelativeToolTip": "TreciProjekat\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-30T22:54:08.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimAktor.cs",
+              "DocumentMoniker": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\TimAktor.cs",
+              "RelativeDocumentMoniker": "TreciProjekat\\TimAktor.cs",
+              "ToolTip": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\TimAktor.cs",
+              "RelativeToolTip": "TreciProjekat\\TimAktor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T20:44:42.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Konfiguracija.cs",
+              "DocumentMoniker": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\Konfiguracija.cs",
+              "RelativeDocumentMoniker": "TreciProjekat\\Konfiguracija.cs",
+              "ToolTip": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\Konfiguracija.cs",
+              "RelativeToolTip": "TreciProjekat\\Konfiguracija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T20:36:02.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RxKomponenta.cs",
+              "DocumentMoniker": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\RxKomponenta.cs",
+              "RelativeDocumentMoniker": "TreciProjekat\\RxKomponenta.cs",
+              "ToolTip": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\RxKomponenta.cs",
+              "RelativeToolTip": "TreciProjekat\\RxKomponenta.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T21:46:41.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\Program.cs",
+              "RelativeDocumentMoniker": "TreciProjekat\\Program.cs",
+              "ToolTip": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\Program.cs",
+              "RelativeToolTip": "TreciProjekat\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T20:15:25.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Poruke.cs",
+              "DocumentMoniker": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\Poruke.cs",
+              "RelativeDocumentMoniker": "TreciProjekat\\Poruke.cs",
+              "ToolTip": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\Poruke.cs",
+              "RelativeToolTip": "TreciProjekat\\Poruke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T20:43:06.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loger.cs",
+              "DocumentMoniker": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\Loger.cs",
+              "RelativeDocumentMoniker": "TreciProjekat\\Loger.cs",
+              "ToolTip": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\Loger.cs",
+              "RelativeToolTip": "TreciProjekat\\Loger.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T21:53:51.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\config.json",
+              "RelativeDocumentMoniker": "TreciProjekat\\config.json",
+              "ToolTip": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\config.json",
+              "RelativeToolTip": "TreciProjekat\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-27T20:33:17.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utakmica.cs",
+              "DocumentMoniker": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\Utakmica.cs",
+              "RelativeDocumentMoniker": "TreciProjekat\\Utakmica.cs",
+              "ToolTip": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\Utakmica.cs",
+              "RelativeToolTip": "TreciProjekat\\Utakmica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T20:41:48.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiFootballKlijent.cs",
+              "DocumentMoniker": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\ApiFootballKlijent.cs",
+              "RelativeDocumentMoniker": "TreciProjekat\\ApiFootballKlijent.cs",
+              "ToolTip": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\ApiFootballKlijent.cs",
+              "RelativeToolTip": "TreciProjekat\\ApiFootballKlijent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T21:00:13.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\.gitignore",
+              "RelativeDocumentMoniker": "TreciProjekat\\.gitignore",
+              "ToolTip": "C:\\Users\\SmartPC\\Desktop\\projekatSistemsko3\\TreciProjekat\\TreciProjekat\\.gitignore",
+              "RelativeToolTip": "TreciProjekat\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-27T20:39:56.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
